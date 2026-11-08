@@ -1,7 +1,3 @@
-<div align="center">
-
-
-
 \# 🛡️ AI Scam Shield
 
 
@@ -24,7 +20,7 @@
 
 
 
-</div>
+
 
 
 
@@ -232,7 +228,6 @@ cse4104-7c-t08-ai-scam-shield/
 
 
 
-<div align="center">
 
 
 
@@ -240,5 +235,5 @@ Made by Team \*\*CSE4104-7C-T08\*\* · Northern University of Business and Techn
 
 
 
-</div>
+
 
